@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #00fa9a;
+  margin: 10%;
+}
+
+#title {
+  text-align: center;
+  text-shadow: 5px 5px 10px white;
+  font-size: 7vh;
+}
+
+img {
+  display: inline-block;
+  width: 100%;
+}
+
+#caption {
+  font-size: 17px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
+}
+
+#tribute-data {
+  background-color: rgb(46, 139, 87, 0.25);
+  box-shadow: 20px 20px 20px #98fb98;
+  padding: 25px 15px;
+  margin: 11px;
+  margin-top: 50px;
+}
+h1.title-Reagan {
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  text-shadow: 5px 5px 10px black;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: black;
+}
